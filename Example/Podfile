@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LWTableViewCell_Example' do
+  pod 'LWTableViewCell', :path => '../'
+
+  target 'LWTableViewCell_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
