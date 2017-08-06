@@ -30,6 +30,7 @@ Have fun!
 ## Author
 
 Paolo Arduin: arduin.paolo@gmail.com.
+
 LWTableViewCell is based on the logic behind [ABTableViewCell](https://github.com/enormego/ABTableViewCell/tree/4e9861651b827d5e4716e56c870a52a0c3ab2027). 
 
 ## License
