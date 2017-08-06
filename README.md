@@ -1,6 +1,5 @@
 # LWTableViewCell
 
-[![CI Status](http://img.shields.io/travis/arduin.paolo@gmail.com/LWTableViewCell.svg?style=flat)](https://travis-ci.org/arduin.paolo@gmail.com/LWTableViewCell)
 [![Version](https://img.shields.io/cocoapods/v/LWTableViewCell.svg?style=flat)](http://cocoapods.org/pods/LWTableViewCell)
 [![License](https://img.shields.io/cocoapods/l/LWTableViewCell.svg?style=flat)](http://cocoapods.org/pods/LWTableViewCell)
 [![Platform](https://img.shields.io/cocoapods/p/LWTableViewCell.svg?style=flat)](http://cocoapods.org/pods/LWTableViewCell)

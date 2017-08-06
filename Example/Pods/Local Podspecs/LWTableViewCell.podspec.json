@@ -1,0 +1,22 @@
+{
+  "name": "LWTableViewCell",
+  "version": "0.1.0",
+  "summary": "A short description of LWTableViewCell.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/arduin.paolo@gmail.com/LWTableViewCell",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "arduin.paolo@gmail.com": "arduin.paolo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/arduin.paolo@gmail.com/LWTableViewCell.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWTableViewCell/Classes/**/*"
+}

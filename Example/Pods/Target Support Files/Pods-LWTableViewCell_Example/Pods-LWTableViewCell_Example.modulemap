@@ -1,0 +1,6 @@
+framework module Pods_LWTableViewCell_Example {
+  umbrella header "Pods-LWTableViewCell_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
